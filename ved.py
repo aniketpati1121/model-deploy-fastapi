@@ -1,0 +1,1 @@
+print ("This is ved.py" " - a module for ved")
